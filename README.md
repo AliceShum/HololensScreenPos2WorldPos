@@ -11,6 +11,6 @@ https://github.com/Optimus1072/HoloLensCameraStream
 
 https://github.com/keijiro/YoloV4TinyBarracuda
 
-It takes photo, adn detects cars and cats on the photo, then creates blue balls on them in real world position.
+It takes photo, and detects cars and cats on the photo, then creates blue balls on them in real world position.
 
 ![image](https://github.com/AliceShum/HololensScreenPos2WorldPos/blob/main/20230720_111345_HoloLens.jpg)
