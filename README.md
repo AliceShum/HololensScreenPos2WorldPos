@@ -1,6 +1,8 @@
 # HololensScreenPos2WorldPos
 This Project runs well in Hololens2.I didn't test how it runs in Hololens1.
 
+The blog I posted regarding this project:https://blog.csdn.net/shenqingyu0605202324/article/details/126996072
+
 Reference materials:
 
 https://learn.microsoft.com/zh-cn/windows/mixed-reality/develop/unity/welcome-to-mr-feature-tool
